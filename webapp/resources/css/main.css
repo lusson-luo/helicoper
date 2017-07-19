@@ -1,0 +1,15 @@
+html, body {
+    font-family: 微软雅黑;
+    height: 100%;
+    margin: 0px;
+}
+
+.main{
+
+}
+
+.gameCanvas{
+    margin: 0 auto;
+    width: 600px;
+    height: 450px;
+}
